@@ -1,14 +1,4 @@
-/**
-* Template Name: iPortfolio
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -52,13 +42,13 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #999999;
   line-height: 0;
 }
 
 .back-to-top:hover {
   background: #2eafec;
-  color: #fff;
+  color: #999999;
 }
 
 .back-to-top.active {
@@ -102,7 +92,7 @@ h6 {
 
 #header .profile h1 a,
 #header .profile h1 a:hover {
-  color: #fff;
+  color: #999999;
   text-decoration: none;
 }
 
@@ -110,7 +100,7 @@ h6 {
   font-size: 18px;
   display: inline-block;
   background: #212431;
-  color: #fff;
+  color: #999999;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -123,7 +113,7 @@ h6 {
 
 #header .profile .social-links a:hover {
   background: #149ddd;
-  color: #fff;
+  color: #999999;
   text-decoration: none;
 }
 
@@ -195,7 +185,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #fff;
+  color: #999999;
 }
 
 .nav-menu a:hover i,
@@ -216,7 +206,7 @@ h6 {
   transition: all 0.4s;
   outline: none !important;
   background-color: #149ddd;
-  color: #fff;
+  color: #999999;
   width: 40px;
   height: 40px;
   display: inline-flex;
@@ -267,18 +257,18 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #999999;
 }
 
 #hero p {
-  color: #fff;
+  color: #999999;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: #fff;
+  color: #999999;
   padding-bottom: 4px;
   letter-spacing: 1px;
   border-bottom: 3px solid #149ddd;
@@ -312,7 +302,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #999999;
 }
 
 .section-title {
@@ -455,7 +445,7 @@ section {
 }
 
 .skills .progress-bar-wrap {
-  background: #dce8f8;
+  background: #999999;
   height: 10px;
 }
 
@@ -496,7 +486,7 @@ section {
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #999999;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -523,7 +513,7 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
+  background: #999999;
   border: 2px solid #1f5297;
 }
 
@@ -539,7 +529,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #fff;
+  background: #999999;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -599,7 +589,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
+  color: #999999;
   font-size: 28px;
   text-align: center;
   background: rgba(20, 157, 221, 0.75);
@@ -647,7 +637,7 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #999999;
   opacity: 1;
   border: 1px solid #149ddd;
 }
@@ -666,7 +656,7 @@ section {
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #999999;
 }
 
 .portfolio-details .portfolio-info ul {
@@ -714,13 +704,13 @@ section {
 }
 
 .services .icon i {
-  color: #fff;
+  color: #999999;
   font-size: 24px;
   line-height: 0;
 }
 
 .services .icon-box:hover .icon {
-  background: #fff;
+  background: #999999;
 }
 
 .services .icon-box:hover .icon i {
@@ -783,7 +773,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #c3e8fa;
+  color: #999999;
   font-size: 26px;
 }
 
@@ -804,7 +794,7 @@ section {
   font-style: italic;
   margin: 0 15px 15px 15px;
   padding: 20px;
-  background: #fff;
+  background: #999999;
   position: relative;
   margin-bottom: 35px;
   border-radius: 6px;
@@ -815,7 +805,7 @@ section {
   content: "";
   width: 0;
   height: 0;
-  border-top: 20px solid #fff;
+  border-top: 20px solid #999999;
   border-right: 20px solid transparent;
   border-left: 20px solid transparent;
   position: absolute;
@@ -831,7 +821,7 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #999999;
   opacity: 1;
   border: 1px solid #149ddd;
 }
@@ -849,7 +839,7 @@ section {
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: #999999;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
@@ -860,7 +850,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: #999999;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -895,7 +885,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #333;
-  color: #fff;
+  color: #999999;
   line-height: 1;
   padding: 8px 0;
   border-radius: 50%;
@@ -908,20 +898,20 @@ section {
 
 .contact .info .social-links a:hover {
   background: #149ddd;
-  color: #fff;
+  color: #999999;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
   background: #149ddd;
-  color: #fff;
+  color: #999999;
 }
 
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background: #999999;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -939,7 +929,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: #999999;
   background: #ed3c0d;
   text-align: left;
   padding: 15px;
@@ -952,7 +942,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: #999999;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -961,7 +951,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: #999999;
   text-align: center;
   padding: 15px;
 }
@@ -1005,7 +995,7 @@ section {
   background: #149ddd;
   border: 0;
   padding: 10px 24px;
-  color: #fff;
+  color: #999999;
   transition: 0.4s;
   border-radius: 4px;
 }
@@ -1076,7 +1066,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   padding: 15px;
-  color: #f4f6fd;
+  color: #999999;
   font-size: 14px;
   position: fixed;
   left: 0;
@@ -1094,7 +1084,7 @@ section {
   padding-top: 5px;
   text-align: center;
   font-size: 13px;
-  color: #eaebf0;
+  color: #999999;
 }
 
 @media (max-width: 1199px) {
